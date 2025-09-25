@@ -113,7 +113,7 @@ The **Power BI Dashboard** includes:
 # How to Run This Project
 1. **Clone the repository**  
 
-   git clone https://github.com/yourusername/vendor-performance-analysis.git
+   git clone https://github.com/karrarhayderali/vendor-performance-analysis.git
 2. **Load the CSVs and ingest into database**
    python scripts/ingestion_db.py
 
