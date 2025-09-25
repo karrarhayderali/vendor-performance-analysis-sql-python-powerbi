@@ -93,7 +93,10 @@ Other Steps:
 - **Hypothesis Testing:** Statistically significant difference in profit margins → distinct vendor strategies
 
 # Dashboard
-![Vendor Performance Dashboard](images/dashboard.png)
+## Vendor Performance Dashboard
+
+![Vendor Performance Dashboard](images/dashboard.PNG)
+
 The **Power BI Dashboard** includes:
 - Vendor-wise Sales and Margins
 - Inventory Turnover
